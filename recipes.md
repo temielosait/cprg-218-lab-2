@@ -60,6 +60,7 @@ Ingredients:
 - 1 egg
 - 2 cloves garlic, minced
 - Salt and pepper to taste
+- 2 cups breadsticks
 - 1 jar (24 oz) spaghetti sauce
 
 Instructions:
@@ -82,6 +83,7 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
+- Cilantro
 
 Instructions:
 1. Preheat grill to medium-high heat.
